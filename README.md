@@ -3,11 +3,13 @@
 
 <br>
 
-- 🔭 I’m currently working on [F1 Predictions](https://github.com/JuaniSimieli/F1-Predictions):
-  - Designed an ML pipeline to predict Formula 1 winners using data from a MySQL Database.
-  - Performed data cleaning and processing with Pandas and Numpy, followed by an EDA with Matplotlib and Seaborn to identify key pattens and perform feature engineering.
-  - Tested and tuned 12 Machine Learning models with Scikit-Learn, getting metrics with up to 66% precision on unseen data.
-  - Currently focusing on the deployment of the model with StreamLit, stay tuned!
+<h3 align="left">🔭 My Projects:</h3>
+
+- **[F1 Predictions](https://github.com/JuaniSimieli/F1-Predictions):**
+  - Designed an ML pipeline to predict the winners of the 2024 Formula 1 World Championship using data from 2010 onwards.
+  - Performed data cleaning and processing with Pandas, followed by an EDA with Matplotlib and Seaborn to identify key pattens and perform feature engineering.
+  - Tested and tuned 12 Machine Learning models with Scikit-Learn, getting metrics with up to 69% precision on unseen data.
+  - Deployed on Streamlit
 
 <h3 align="left">📬 Connect with me:</h3>
 <p align="left">
